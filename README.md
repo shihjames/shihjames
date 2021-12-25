@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shihjames
-- 👀 I’m interested in Computer Science
+- 👀 I’m interested in computational techniques and their biomedical applications
 - 🌱 I’m currently learning AI in Image Recognition 
 - 📫 How to reach me LinkedIn: Po-Cheng (James) Shih
 
