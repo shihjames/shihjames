@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shihjames
-- 👀 I’m interested in computational techniques and their biomedical applications
-- 🌱 I’m currently learning AI in Image Recognition 
+- 👋 Hi, I’m James
+- 👀 I’m interested in Computer Science, Data Science, Machine Learning, and AI
+- 📖 I’m currently pursing a Master of Computer Science at Rice University 🦉
 - 📫 How to reach me LinkedIn: Po-Cheng (James) Shih
 
 <!---
