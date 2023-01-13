@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James
 - 👀 I’m interested in Cloud Computing, Databases, and Security
-- 📖 I’m currently pursing a Master of Computer Science at Rice University 🦉
+- 📖 I’m currently pursing a Master of Computer Science degree at Rice University 🦉
 - 📫 How to reach me LinkedIn: Po-Cheng (James) Shih
 
 <!---
