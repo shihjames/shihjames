@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Shih</h1>
-<h3 align="center">A originally from Taiwan, currently a Master of Computer Science student at Rice University</h3>
+<h3 align="center">Currently a Master of Computer Science student at Rice University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shihjames&label=Profile%20views&color=0e75b6&style=flat" alt="shihjames" /> </p>
 
