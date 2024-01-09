@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Shih</h1>
 <h3 align="center">A Passionate Software Engineer from Taiwan</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihjames&" alt="shihjames" /></p>
+<p><img align="center" src="https://drive.google.com/file/d/1n7fpQg2oy25Gsak-NC3b6endRt39q1bq/view?usp=drive_link" alt="shihjames" /></p>
 
 - 💼 Software Engineering Intern at **Google**, contributing to cutting-edge technology solutions.
 
