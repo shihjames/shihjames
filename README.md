@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm James Shih</h1>
-<h3 align="center">Software Engineer From Taiwan</h3>
+<h3 align="center">A Passionate Software Engineer from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shihjames&label=Profile%20views&color=0e75b6&style=flat" alt="shihjames" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihjames" alt="shihjames" /></a> </p>
+- 💼 Software Engineering Intern at **Google**, contributing to cutting-edge technology solutions.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🎓 Master's in Computer Science from **Rice University** with a focus on **Database Systems, Cloud Computing, and Cybersecurity**.
 
-- 💻 Software Engineer Intern at **Google**
+- 🌱 Expanding my expertise in **Cloud Technology and System Design**.
 
-- 🌱 I’m currently learning **Cloud Technology and System Design**
+- 🔍 Actively seeking **Early-Career Software Engineering Opportunities**.
 
-- 🔭 Looking for **Early-Career Software Engineering Opportunities**
+- 📂 Check out my projects [here](https://github.com/shihjames).
 
-- 👨‍💻 All of my projects are available at [https://github.com/shihjames](https://github.com/shihjames)
-
-- 📫 How to reach me **js231@rice.edu**
+- 📧 Feel free to reach out to me at **js231@rice.edu**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
