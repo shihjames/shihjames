@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm James Shih</h1>
 <h3 align="center">A Passionate Software Engineer from Taiwan</h3>
 
-- 💼 Software Engineering Intern at **Google**, contributing to cutting-edge technology solutions.
+- 💼 Software Engineering at **Google**, contributing to Google Cloud Storage authentication & authorization security infrastructure.
 
-- 🎓 Master's in Computer Science from **Rice University** with a focus on **Database Systems, Cloud Computing, and Cybersecurity**.
+- 🎓 Master's in Computer Science from **Rice University** with a focus on **Cloud Computing, Cybersecurity, and Distrbuted Systems**.
 
-- 🌱 Expanding my expertise in **Cloud Technology and System Design**.
-
-- 🔍 Actively seeking **Early-Career Software Engineering Opportunities**.
+- 🌱 Expanding my expertise in **Cloud Security**.
 
 - 📂 Check out my projects [here](https://github.com/shihjames).
 
